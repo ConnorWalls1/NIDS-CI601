@@ -1,204 +1,365 @@
 ---- Network Intrusion Detection System Report ----
 
-Time: 2026-04-20 15:00:36.942249
-Threat: Connections Detected
-Description: High number of connections from 192.168.0.1
-Risk Score: 8/10
-Mitigation: Enable firewall rate limiting and investigate the remote host to detect the cause of the high level of network connections.
-------------------------------------------------------------
-
-Time: 2026-04-20 15:00:40.950031
+Time: 2026-04-28 14:32:17.869198
 Threat: Connections Detected
 Description: High number of connections from 127.0.0.1
 Risk Score: 8/10
-Mitigation: Enable firewall rate limiting and investigate the remote host to detect the cause of the high level of network connections.
+Mitigation: Enable firewall rate limiting and investigate the remote host to detect the cause of the high level of network connections. Failure to follow prevention methods may cause the system to be overloaded and have much slower speeds.
 ------------------------------------------------------------
 
-Time: 2026-04-20 15:00:34.936714
+Time: 2026-04-28 14:32:17.869573
+Threat: Connections Detected
+Description: High number of connections from 52.57.176.248
+Risk Score: 8/10
+Mitigation: Enable firewall rate limiting and investigate the remote host to detect the cause of the high level of network connections. Failure to follow prevention methods may cause the system to be overloaded and have much slower speeds.
+------------------------------------------------------------
+
+Time: 2026-04-28 14:32:17.872934
+Threat: Connections Detected
+Description: High number of connections from 52.105.21.41
+Risk Score: 8/10
+Mitigation: Enable firewall rate limiting and investigate the remote host to detect the cause of the high level of network connections. Failure to follow prevention methods may cause the system to be overloaded and have much slower speeds.
+------------------------------------------------------------
+
+Time: 2026-04-28 14:32:19.876668
+Threat: Connections Detected
+Description: High number of connections from 2a00:1450:4009:c04::5f
+Risk Score: 8/10
+Mitigation: Enable firewall rate limiting and investigate the remote host to detect the cause of the high level of network connections. Failure to follow prevention methods may cause the system to be overloaded and have much slower speeds.
+------------------------------------------------------------
+
+Time: 2026-04-28 14:32:19.877120
+Threat: Connections Detected
+Description: High number of connections from 2001:4860:482c:7700::
+Risk Score: 8/10
+Mitigation: Enable firewall rate limiting and investigate the remote host to detect the cause of the high level of network connections. Failure to follow prevention methods may cause the system to be overloaded and have much slower speeds.
+------------------------------------------------------------
+
+Time: 2026-04-28 14:32:19.877359
+Threat: Connections Detected
+Description: High number of connections from 2a00:1450:4009:c15::5f
+Risk Score: 8/10
+Mitigation: Enable firewall rate limiting and investigate the remote host to detect the cause of the high level of network connections. Failure to follow prevention methods may cause the system to be overloaded and have much slower speeds.
+------------------------------------------------------------
+
+Time: 2026-04-28 14:32:19.877746
+Threat: Connections Detected
+Description: High number of connections from 3.69.1.236
+Risk Score: 8/10
+Mitigation: Enable firewall rate limiting and investigate the remote host to detect the cause of the high level of network connections. Failure to follow prevention methods may cause the system to be overloaded and have much slower speeds.
+------------------------------------------------------------
+
+Time: 2026-04-28 14:32:19.877976
+Threat: Connections Detected
+Description: High number of connections from 2a00:1450:4009:c0b::65
+Risk Score: 8/10
+Mitigation: Enable firewall rate limiting and investigate the remote host to detect the cause of the high level of network connections. Failure to follow prevention methods may cause the system to be overloaded and have much slower speeds.
+------------------------------------------------------------
+
+Time: 2026-04-28 14:32:19.878274
+Threat: Connections Detected
+Description: High number of connections from 2001:4860:4802:34::9d
+Risk Score: 8/10
+Mitigation: Enable firewall rate limiting and investigate the remote host to detect the cause of the high level of network connections. Failure to follow prevention methods may cause the system to be overloaded and have much slower speeds.
+------------------------------------------------------------
+
+Time: 2026-04-28 14:32:19.878532
+Threat: Connections Detected
+Description: High number of connections from 4.176.49.0
+Risk Score: 8/10
+Mitigation: Enable firewall rate limiting and investigate the remote host to detect the cause of the high level of network connections. Failure to follow prevention methods may cause the system to be overloaded and have much slower speeds.
+------------------------------------------------------------
+
+Time: 2026-04-28 14:32:17.866739
 Threat: External Network Connection
-Description: Unauthorised connection to external IP 20.190.160.130
+Description: Unauthorised connection to external IP 192.178.223.155
 Risk Score: 5/10
 Mitigation: Verify the use of external connections and apply firewall protection policies.
 ------------------------------------------------------------
 
-Time: 2026-04-20 15:00:34.936948
+Time: 2026-04-28 14:32:17.867051
 Threat: External Network Connection
-Description: Unauthorised connection to external IP fd4d:91f5:4ef5:0:5270:43ff:feea:1000
+Description: Unauthorised connection to external IP 2a00:1450:4009:c15::5b
 Risk Score: 5/10
 Mitigation: Verify the use of external connections and apply firewall protection policies.
 ------------------------------------------------------------
 
-Time: 2026-04-20 15:00:34.937139
+Time: 2026-04-28 14:32:17.867197
 Threat: External Network Connection
-Description: Unauthorised connection to external IP 2a00:1450:4009:c0f::bc
+Description: Unauthorised connection to external IP 172.187.86.72
 Risk Score: 5/10
 Mitigation: Verify the use of external connections and apply firewall protection policies.
 ------------------------------------------------------------
 
-Time: 2026-04-20 15:00:34.937256
+Time: 2026-04-28 14:32:17.867344
 Threat: External Network Connection
-Description: Unauthorised connection to external IP 2a06:98c1:3100::6812:202f
+Description: Unauthorised connection to external IP 2a00:1450:4009:c08::8a
 Risk Score: 5/10
 Mitigation: Verify the use of external connections and apply firewall protection policies.
 ------------------------------------------------------------
 
-Time: 2026-04-20 15:00:34.937325
+Time: 2026-04-28 14:32:17.867503
 Threat: External Network Connection
-Description: Unauthorised connection to external IP 2600:1901:0:201::
+Description: Unauthorised connection to external IP 2a00:1450:4009:c0b::84
 Risk Score: 5/10
 Mitigation: Verify the use of external connections and apply firewall protection policies.
 ------------------------------------------------------------
 
-Time: 2026-04-20 15:00:34.937413
-Threat: External Network Connection
-Description: Unauthorised connection to external IP 2603:1063:2001:403::365:ff1
-Risk Score: 5/10
-Mitigation: Verify the use of external connections and apply firewall protection policies.
-------------------------------------------------------------
-
-Time: 2026-04-20 15:00:34.937599
-Threat: External Network Connection
-Description: Unauthorised connection to external IP 20.50.201.200
-Risk Score: 5/10
-Mitigation: Verify the use of external connections and apply firewall protection policies.
-------------------------------------------------------------
-
-Time: 2026-04-20 15:00:34.937829
+Time: 2026-04-28 14:32:17.867651
 Threat: External Network Connection
 Description: Unauthorised connection to external IP 127.0.0.1
 Risk Score: 5/10
 Mitigation: Verify the use of external connections and apply firewall protection policies.
 ------------------------------------------------------------
 
-Time: 2026-04-20 15:00:34.937934
+Time: 2026-04-28 14:32:17.867796
 Threat: External Network Connection
-Description: Unauthorised connection to external IP 2a02:c7a:8000:1a05::b0ff:ca79
+Description: Unauthorised connection to external IP 52.57.176.248
 Risk Score: 5/10
 Mitigation: Verify the use of external connections and apply firewall protection policies.
 ------------------------------------------------------------
 
-Time: 2026-04-20 15:00:34.938036
+Time: 2026-04-28 14:32:17.867939
 Threat: External Network Connection
-Description: Unauthorised connection to external IP 13.107.137.11
+Description: Unauthorised connection to external IP 2a02:26f0:1c80:5f::1704:54db
 Risk Score: 5/10
 Mitigation: Verify the use of external connections and apply firewall protection policies.
 ------------------------------------------------------------
 
-Time: 2026-04-20 15:00:34.938125
+Time: 2026-04-28 14:32:17.868144
+Threat: External Network Connection
+Description: Unauthorised connection to external IP 2a00:1450:4009:c04::5f
+Risk Score: 5/10
+Mitigation: Verify the use of external connections and apply firewall protection policies.
+------------------------------------------------------------
+
+Time: 2026-04-28 14:32:17.868289
+Threat: External Network Connection
+Description: Unauthorised connection to external IP 2a00:1450:4009:c04::5e
+Risk Score: 5/10
+Mitigation: Verify the use of external connections and apply firewall protection policies.
+------------------------------------------------------------
+
+Time: 2026-04-28 14:32:17.868485
+Threat: External Network Connection
+Description: Unauthorised connection to external IP 2001:4860:482c:7700::
+Risk Score: 5/10
+Mitigation: Verify the use of external connections and apply firewall protection policies.
+------------------------------------------------------------
+
+Time: 2026-04-28 14:32:17.868622
+Threat: External Network Connection
+Description: Unauthorised connection to external IP 2a00:1450:4009:c15::5f
+Risk Score: 5/10
+Mitigation: Verify the use of external connections and apply firewall protection policies.
+------------------------------------------------------------
+
+Time: 2026-04-28 14:32:17.868723
+Threat: External Network Connection
+Description: Unauthorised connection to external IP 2620:1ec:33::10
+Risk Score: 5/10
+Mitigation: Verify the use of external connections and apply firewall protection policies.
+------------------------------------------------------------
+
+Time: 2026-04-28 14:32:17.868880
+Threat: External Network Connection
+Description: Unauthorised connection to external IP 52.123.138.139
+Risk Score: 5/10
+Mitigation: Verify the use of external connections and apply firewall protection policies.
+------------------------------------------------------------
+
+Time: 2026-04-28 14:32:17.868993
+Threat: External Network Connection
+Description: Unauthorised connection to external IP 20.50.73.9
+Risk Score: 5/10
+Mitigation: Verify the use of external connections and apply firewall protection policies.
+------------------------------------------------------------
+
+Time: 2026-04-28 14:32:17.869380
+Threat: External Network Connection
+Description: Unauthorised connection to external IP 2603:1026:c06:146e::2
+Risk Score: 5/10
+Mitigation: Verify the use of external connections and apply firewall protection policies.
+------------------------------------------------------------
+
+Time: 2026-04-28 14:32:17.869787
 Threat: External Network Connection
 Description: Unauthorised connection to external IP 52.105.21.41
 Risk Score: 5/10
 Mitigation: Verify the use of external connections and apply firewall protection policies.
 ------------------------------------------------------------
 
-Time: 2026-04-20 15:00:34.938199
+Time: 2026-04-28 14:32:17.869872
 Threat: External Network Connection
-Description: Unauthorised connection to external IP 2603:1063:2206:1c::20
+Description: Unauthorised connection to external IP 52.111.236.89
 Risk Score: 5/10
 Mitigation: Verify the use of external connections and apply firewall protection policies.
 ------------------------------------------------------------
 
-Time: 2026-04-20 15:00:34.938291
+Time: 2026-04-28 14:32:17.869958
 Threat: External Network Connection
-Description: Unauthorised connection to external IP 2620:1ec:33::11
+Description: Unauthorised connection to external IP 2a00:1450:4009:c15::5e
 Risk Score: 5/10
 Mitigation: Verify the use of external connections and apply firewall protection policies.
 ------------------------------------------------------------
 
-Time: 2026-04-20 15:00:34.938388
+Time: 2026-04-28 14:32:17.870115
 Threat: External Network Connection
-Description: Unauthorised connection to external IP 2603:1063:27:1::14
+Description: Unauthorised connection to external IP 192.178.223.188
 Risk Score: 5/10
 Mitigation: Verify the use of external connections and apply firewall protection policies.
 ------------------------------------------------------------
 
-Time: 2026-04-20 15:00:34.938476
-Threat: External Network Connection
-Description: Unauthorised connection to external IP 20.50.201.201
-Risk Score: 5/10
-Mitigation: Verify the use of external connections and apply firewall protection policies.
-------------------------------------------------------------
-
-Time: 2026-04-20 15:00:34.938577
-Threat: External Network Connection
-Description: Unauthorised connection to external IP 18.165.242.110
-Risk Score: 5/10
-Mitigation: Verify the use of external connections and apply firewall protection policies.
-------------------------------------------------------------
-
-Time: 2026-04-20 15:00:34.938707
-Threat: External Network Connection
-Description: Unauthorised connection to external IP 52.112.100.71
-Risk Score: 5/10
-Mitigation: Verify the use of external connections and apply firewall protection policies.
-------------------------------------------------------------
-
-Time: 2026-04-20 15:00:34.938844
-Threat: External Network Connection
-Description: Unauthorised connection to external IP 3.69.1.236
-Risk Score: 5/10
-Mitigation: Verify the use of external connections and apply firewall protection policies.
-------------------------------------------------------------
-
-Time: 2026-04-20 15:00:34.938923
-Threat: External Network Connection
-Description: Unauthorised connection to external IP 2620:1ec:50::11
-Risk Score: 5/10
-Mitigation: Verify the use of external connections and apply firewall protection policies.
-------------------------------------------------------------
-
-Time: 2026-04-20 15:00:34.939082
-Threat: External Network Connection
-Description: Unauthorised connection to external IP 2603:1063:45::10
-Risk Score: 5/10
-Mitigation: Verify the use of external connections and apply firewall protection policies.
-------------------------------------------------------------
-
-Time: 2026-04-20 15:00:34.939211
+Time: 2026-04-28 14:32:17.870220
 Threat: External Network Connection
 Description: Unauthorised connection to external IP 2a06:98c1:3108::ac40:94eb
 Risk Score: 5/10
 Mitigation: Verify the use of external connections and apply firewall protection policies.
 ------------------------------------------------------------
 
-Time: 2026-04-20 15:00:34.939319
+Time: 2026-04-28 14:32:17.870420
 Threat: External Network Connection
-Description: Unauthorised connection to external IP 162.247.241.14
+Description: Unauthorised connection to external IP 3.69.1.236
 Risk Score: 5/10
 Mitigation: Verify the use of external connections and apply firewall protection policies.
 ------------------------------------------------------------
 
-Time: 2026-04-20 15:00:34.939411
+Time: 2026-04-28 14:32:17.870557
 Threat: External Network Connection
-Description: Unauthorised connection to external IP 2603:1020:705:8::400
+Description: Unauthorised connection to external IP 140.82.114.26
 Risk Score: 5/10
 Mitigation: Verify the use of external connections and apply firewall protection policies.
 ------------------------------------------------------------
 
-Time: 2026-04-20 15:00:34.939500
+Time: 2026-04-28 14:32:17.870715
 Threat: External Network Connection
-Description: Unauthorised connection to external IP 2603:1063:28::23
+Description: Unauthorised connection to external IP 2a06:98c1:310d::6812:25b9
 Risk Score: 5/10
 Mitigation: Verify the use of external connections and apply firewall protection policies.
 ------------------------------------------------------------
 
-Time: 2026-04-20 15:00:34.939578
+Time: 2026-04-28 14:32:17.870801
 Threat: External Network Connection
-Description: Unauthorised connection to external IP 52.182.143.213
+Description: Unauthorised connection to external IP 40.99.151.162
 Risk Score: 5/10
 Mitigation: Verify the use of external connections and apply firewall protection policies.
 ------------------------------------------------------------
 
-Time: 2026-04-20 15:00:34.939662
+Time: 2026-04-28 14:32:17.870900
 Threat: External Network Connection
-Description: Unauthorised connection to external IP 2603:1026:2404:1::3
+Description: Unauthorised connection to external IP 2a00:1450:4009:c0b::65
 Risk Score: 5/10
 Mitigation: Verify the use of external connections and apply firewall protection policies.
 ------------------------------------------------------------
 
-Time: 2026-04-20 15:00:34.939819
+Time: 2026-04-28 14:32:17.871078
 Threat: External Network Connection
-Description: Unauthorised connection to external IP 2603:1063:2206:14::47
+Description: Unauthorised connection to external IP 52.36.71.180
+Risk Score: 5/10
+Mitigation: Verify the use of external connections and apply firewall protection policies.
+------------------------------------------------------------
+
+Time: 2026-04-28 14:32:17.871218
+Threat: External Network Connection
+Description: Unauthorised connection to external IP 2a06:98c1:310b::ac40:9bd1
+Risk Score: 5/10
+Mitigation: Verify the use of external connections and apply firewall protection policies.
+------------------------------------------------------------
+
+Time: 2026-04-28 14:32:17.871294
+Threat: External Network Connection
+Description: Unauthorised connection to external IP 172.187.86.74
+Risk Score: 5/10
+Mitigation: Verify the use of external connections and apply firewall protection policies.
+------------------------------------------------------------
+
+Time: 2026-04-28 14:32:17.871352
+Threat: External Network Connection
+Description: Unauthorised connection to external IP 52.123.200.61
+Risk Score: 5/10
+Mitigation: Verify the use of external connections and apply firewall protection policies.
+------------------------------------------------------------
+
+Time: 2026-04-28 14:32:17.871421
+Threat: External Network Connection
+Description: Unauthorised connection to external IP 2001:4860:4802:34::9d
+Risk Score: 5/10
+Mitigation: Verify the use of external connections and apply firewall protection policies.
+------------------------------------------------------------
+
+Time: 2026-04-28 14:32:17.871544
+Threat: External Network Connection
+Description: Unauthorised connection to external IP 2a00:1450:4009:c0f::8b
+Risk Score: 5/10
+Mitigation: Verify the use of external connections and apply firewall protection policies.
+------------------------------------------------------------
+
+Time: 2026-04-28 14:32:17.871686
+Threat: External Network Connection
+Description: Unauthorised connection to external IP 2a00:1450:4009:c0b::61
+Risk Score: 5/10
+Mitigation: Verify the use of external connections and apply firewall protection policies.
+------------------------------------------------------------
+
+Time: 2026-04-28 14:32:17.871857
+Threat: External Network Connection
+Description: Unauthorised connection to external IP 52.108.240.61
+Risk Score: 5/10
+Mitigation: Verify the use of external connections and apply firewall protection policies.
+------------------------------------------------------------
+
+Time: 2026-04-28 14:32:17.872061
+Threat: External Network Connection
+Description: Unauthorised connection to external IP 2a00:1450:4009:c04::64
+Risk Score: 5/10
+Mitigation: Verify the use of external connections and apply firewall protection policies.
+------------------------------------------------------------
+
+Time: 2026-04-28 14:32:17.872223
+Threat: External Network Connection
+Description: Unauthorised connection to external IP 4.176.49.0
+Risk Score: 5/10
+Mitigation: Verify the use of external connections and apply firewall protection policies.
+------------------------------------------------------------
+
+Time: 2026-04-28 14:32:17.872409
+Threat: External Network Connection
+Description: Unauthorised connection to external IP 20.42.73.24
+Risk Score: 5/10
+Mitigation: Verify the use of external connections and apply firewall protection policies.
+------------------------------------------------------------
+
+Time: 2026-04-28 14:32:17.872599
+Threat: External Network Connection
+Description: Unauthorised connection to external IP 2a00:1288:110:c104::2000
+Risk Score: 5/10
+Mitigation: Verify the use of external connections and apply firewall protection policies.
+------------------------------------------------------------
+
+Time: 2026-04-28 14:32:17.872780
+Threat: External Network Connection
+Description: Unauthorised connection to external IP 54.230.201.49
+Risk Score: 5/10
+Mitigation: Verify the use of external connections and apply firewall protection policies.
+------------------------------------------------------------
+
+Time: 2026-04-28 14:32:17.873086
+Threat: External Network Connection
+Description: Unauthorised connection to external IP 2603:1026:c06:140f::2
+Risk Score: 5/10
+Mitigation: Verify the use of external connections and apply firewall protection policies.
+------------------------------------------------------------
+
+Time: 2026-04-28 14:32:17.873250
+Threat: External Network Connection
+Description: Unauthorised connection to external IP 2a00:1450:4009:c0b::8b
+Risk Score: 5/10
+Mitigation: Verify the use of external connections and apply firewall protection policies.
+------------------------------------------------------------
+
+Time: 2026-04-28 14:32:17.873405
+Threat: External Network Connection
+Description: Unauthorised connection to external IP 52.108.52.22
 Risk Score: 5/10
 Mitigation: Verify the use of external connections and apply firewall protection policies.
 ------------------------------------------------------------

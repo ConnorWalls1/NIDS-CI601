@@ -50,7 +50,7 @@ def scan_connections():
                     "Connections Detected",
                     f"High number of connections from {remote_ip}",
                     8,
-                    "Enable firewall rate limiting and investigate the remote host to detect the cause of the high level of network connections."
+                    "Enable firewall rate limiting and investigate the remote host to detect the cause of the high level of network connections. Failure to follow prevention methods may cause the system to be overloaded and have much slower speeds."
                 )
 
             #Risk Port Usage
@@ -59,7 +59,7 @@ def scan_connections():
                     "Suspicious Port Activity",
                     f"Connection detected on risky port {remote_port} from {remote_ip}",
                     7,
-                    "Disable unnecessary applications and restrict access to sensitive ports to protect sensitive data and information."
+                    "Disable unnecessary applications and restrict access to sensitive ports to protect sensitive data and information. Failure to follow prevention methods can result in a potential attack of ransomware and malware."
                 )
 
             #Unknown External IP
@@ -68,7 +68,7 @@ def scan_connections():
                     "External Network Connection",
                     f"Unauthorised connection to external IP {remote_ip}",
                     5,
-                    "Verify the use of external connections and apply firewall protection policies."
+                    "Verify the use of external connections and apply firewall protection policies. Failure to follow can cause potential malware and DDoS attacks on your system."
                 )
 # Report
 def generate_report():
